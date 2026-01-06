@@ -37,7 +37,7 @@ I enjoy building **scalable web applications**, solving problems, and learning n
 
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/pankaj1802)  
-- Email: `pankaj1802@example.com`  
+- Email: `chauhanpankaj032@gmail.com`  
 
 ---
 

@@ -16,7 +16,6 @@ I enjoy building **scalable web applications**, solving problems, and learning n
 
 ### 🚀 Current Projects
 - **Food Reels** – A full-stack app to upload, view, and share short food videos  
-- **Restaurant Menu App** – Manage restaurant menu items with CRUD functionality  
 - **URL Shortener** – Simple app to shorten URLs and track analytics  
 
 *(Check my pinned repositories for live demos and code)*

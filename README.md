@@ -1,20 +1,25 @@
 # Hi there 👋, I'm Pankaj Chauhan
 
 ### 🌟 About Me
-I’m an **Associate Analyst with 4 years of experience**, now transitioning into **Full-Stack Development (MERN & Backend)**.  
-I enjoy building **scalable web applications**, solving problems, and learning new technologies.
+I am a Data Analyst with 4+ years of experience in SQL, Power BI, and Python.  
+I specialize in building data pipelines, analyzing datasets, and creating dashboards to drive business insights.
+
+I also have a strong foundation in full-stack development (MERN), which helps me build scalable data-driven applications and automate workflows.
 
 ---
 
 ### 💻 Tech Stack
-- **Frontend:** React, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Other Tools:** Git, GitHub, Postman, JWT, REST API
+
+- Data Analysis: SQL, Power BI, Python (Pandas, NumPy), Excel  
+- Data Engineering: ETL Pipelines, Data Cleaning, Data Modeling  
+- Backend & Dev: Node.js, Express.js  
+- Frontend: React, HTML, CSS, JavaScript  
+- Tools: Git, GitHub, Postman, REST APIs
 
 ---
 
 ### 🚀 Current Projects
+- **Retail Sales Analysis (SQL + Power BI)
 - **Food Reels** – A full-stack app to upload, view, and share short food videos  
 - **URL Shortener** – Simple app to shorten URLs and track analytics  
 
@@ -22,15 +27,11 @@ I enjoy building **scalable web applications**, solving problems, and learning n
 
 ---
 
-### 📈 GitHub Stats
-![Pankaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PANKAJ1802&show_icons=true&theme=radical)
-
----
-
 ### 🌱 Currently Learning
-- TypeScript & Next.js  
-- Cloud Deployment (Vercel / Render / Heroku)  
-- Advanced Node.js patterns & authentication
+- Advanced Power BI (DAX, Data Modeling)  
+- Python for Data Analysis (Pandas, NumPy, EDA)  
+- SQL Optimization & Complex Queries  
+- Data Engineering Basics (ETL, Data Pipelines) 
 
 ---
 

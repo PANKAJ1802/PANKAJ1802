@@ -4,7 +4,7 @@
 I am a Data Analyst with 4+ years of experience in SQL, Power BI, and Python.  
 I specialize in building data pipelines, analyzing datasets, and creating dashboards to drive business insights.
 
-I also have a strong foundation in full-stack development (MERN), which helps me build scalable data-driven applications and automate workflows.
+I also have a good foundation in full-stack development (MERN), which helps me build scalable data-driven applications and automate workflows.
 
 ---
 
